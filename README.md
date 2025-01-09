@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 ¡Hola! Encantado de conocerte
 
-<!--
-**MiZhaX/MiZhaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Mishael, un joven desarrollador de software. En mi GitHub encontrarás proyectos y ejercicios desarollados personalmente o durante el Grado Superior de Desarrollo de Aplicaciones Web.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+
+- **Lenguajes:** JavaScript, PHP, CSS y Java.
+- **Frameworks:** VueJS
+- **Bases de Datos:** MySQL
+
+---
+
+## 🌟 Sobre mí
+
+- 🎓 Actualmente estudio el Grado Superior en Desarrollo de Aplicaciones Web en el IES Francisco Ayala.
+- 💡 Me gusta trabajar en equipo, intercambiando ideas y aplicando los consejos de otros.
+- 🚀 Puedes encontrar algunos de mis proyectos finalizados en los repositorios fijados.
+  
+---
+
+## 📈 Estadísticas de GitHub
+
+<div align="center">
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MiZhaX&show_icons=true&theme=radical" alt="mizhax" /></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiZhaX&layout=compact&theme=radical" alt="mizhax" /></p>
+</div>
+
+---
+
+## 📫 Cómo contactarme
+
+- **Email:** mbonelortiz@gmail.com
+
