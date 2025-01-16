@@ -24,7 +24,7 @@ Soy Mishael, un joven desarrollador de software. En mi GitHub encontrarás proye
 
 <div align="center">
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MiZhaX&show_icons=true&theme=radical" alt="mizhax" /></p>
-  <p align="center"><img src="" alt="mizhax" /></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiZhaX&layout=compact&theme=radical" alt="mizhax" /></p>
 </div>
 
 ---
