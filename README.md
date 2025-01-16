@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Encantado de conocerte
 
-Soy Mishael, un joven desarrollador de software. En mi GitHub encontrarás proyectos y ejercicios desarollados personalmente o durante el Grado Superior de Desarrollo de Aplicaciones Web.
+Soy Mishael, un joven estudiante desarrollador de software. En mi GitHub encontrarás proyectos y ejercicios desarollados personalmente o durante el Grado Superior de Desarrollo de Aplicaciones Web.
 
 ---
 
