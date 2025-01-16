@@ -23,7 +23,7 @@ Soy Mishael, un joven estudiante desarrollador de software. En mi GitHub encontr
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MiZhaX&show_icons=true&theme=merko" alt="mizhax" /></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MiZhaX&show_icons=true&theme=merko&hide=issues,contribs" alt="mizhax" /></p>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiZhaX&layout=compact&theme=merko&langs_count=8" alt="mizhax" /></p>
 </div>
 
