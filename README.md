@@ -6,8 +6,8 @@ Soy Mishael, un joven estudiante desarrollador de software. En mi GitHub encontr
 
 ## 🛠️ Tecnologías
 
-- **Lenguajes:** JavaScript, PHP, CSS y Java.
-- **Frameworks:** VueJS
+- **Lenguajes:** HTML, CSS, JavaScript, PHP, CSS y Java.
+- **Frameworks:** VueJS, React y Laravel
 - **Bases de Datos:** MySQL
 
 ---
