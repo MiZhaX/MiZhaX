@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Encantado de conocerte
 
-Soy Mishael, un joven estudiante desarrollador de software. En mi GitHub encontrarás proyectos y ejercicios desarollados personalmente o durante el Grado Superior de Desarrollo de Aplicaciones Web.
+Soy Mishael, un joven desarrollador de software apasionado por la tecnología y la programación. En mi GitHub encontrarás proyectos y ejercicios desarollados personalmente o durante el Grado Superior de Desarrollo de Aplicaciones Web.
 
 ---
 
@@ -14,7 +14,7 @@ Soy Mishael, un joven estudiante desarrollador de software. En mi GitHub encontr
 
 ## 🌟 Sobre mí
 
-- 🎓 Actualmente estudio el Grado Superior en Desarrollo de Aplicaciones Web en el IES Francisco Ayala.
+- 🎓 Actualmente busco empleo mientras me sigo formando con cursos online y proyectos personales.
 - 💡 Me gusta trabajar en equipo, intercambiando ideas y aplicando los consejos de otros.
 - 🚀 Puedes encontrar algunos de mis proyectos finalizados en los repositorios fijados.
   
